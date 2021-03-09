@@ -7,7 +7,7 @@
 ![Kyoshong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoshong&show_icons=true&theme=tokyonight)
 
 
-##Skills  
+## 👩🏻‍💻  
 ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![](https://img.shields.io/badge/%20C%20%20-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
