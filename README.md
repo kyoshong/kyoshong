@@ -8,12 +8,12 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-🙌🏼 Hi,  I'm Hyo Spark✨
-
-👩🏻‍💻 Study in 42Seoul 
-💻 Backend Developer 
+## 🙌🏼 Hi,  I'm Hyo Spark✨    
+  
+👩🏻‍💻 Study in 42Seoul   
+💻 Backend Developer   
 🎸 Love Rockband 
--->
+
 
 
 [![kyoshong's 42 stats](https://badge42.herokuapp.com/api/stats/hyospark?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
