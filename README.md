@@ -8,7 +8,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-## 🙌🏼 Hi,  I'm Hyo Spark✨    
+## 🙌🏼 Hi,  I'm Hyosung Park✨    
   
 👩🏻‍💻 Study in 42Seoul   
 💻 Backend Developer   
