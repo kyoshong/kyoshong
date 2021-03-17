@@ -9,10 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 ## 🙌🏼 Hi,  I'm Hyosung Park✨    
-  
-👩🏻‍💻 Study in 42Seoul   
-💻 Backend Developer   
-🎸 Love Rockband 
+ 
 
 
 
