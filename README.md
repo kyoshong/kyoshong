@@ -9,9 +9,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 ## 🙌🏼 Hi,  I'm Hyosung Park✨    
- 
-
-
+Notion https://www.notion.so/bigpel66/Hyo-s
+DevBlog https://hyos-inside.tistory.com/
 
 [![kyoshong's 42 stats](https://badge42.herokuapp.com/api/stats/hyospark?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
