@@ -12,7 +12,7 @@
 <!-- [Notion](https://www.notion.so/Hyo-s-a5f051fe47964b429e26812910299dd7)   
  [DevBlog](https://hyos-inside.tistory.com/) -->
 
-### 🌱 I’m currently student in 42Seoul  
+##### 🌱 I’m currently student in 42Seoul  
 [![kyoshong's 42 stats](https://badge42.herokuapp.com/api/stats/hyospark?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 ***
