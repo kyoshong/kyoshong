@@ -1,7 +1,6 @@
 
 <!--
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -13,9 +12,10 @@
 <!-- [Notion](https://www.notion.so/Hyo-s-a5f051fe47964b429e26812910299dd7)   
  [DevBlog](https://hyos-inside.tistory.com/) -->
 
+### 🌱 I’m currently student in 42Seoul  
 [![kyoshong's 42 stats](https://badge42.herokuapp.com/api/stats/hyospark?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
-
+***
 
 ![Kyoshong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoshong&show_icons=true&theme=tokyonight)
 
