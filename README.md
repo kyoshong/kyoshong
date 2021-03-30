@@ -7,9 +7,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-## 🙌🏼 Hi,  I'm Hyosung Park✨    
+## 🙌🏼 Hi,  I'm Hyosung Park✨      
   
-
+    
+    
 
 <!--[Notion](https://www.notion.so/Hyo-s-a5f051fe47964b429e26812910299dd7)   
 [DevBlog](https://hyos-inside.tistory.com/)-->
@@ -18,8 +19,9 @@
 🌱 I’m currently student in 42Seoul  
 
 [![kyoshong's 42 stats](https://badge42.herokuapp.com/api/stats/hyospark?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-
+  
 ---
+
 👩🏻‍💻 I’m interested in `c` `c++` `Java` `Spring` `Docker` `React` `AWS` 
 
 ![Kyoshong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoshong&show_icons=true&theme=tokyonight)
