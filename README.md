@@ -23,8 +23,8 @@
 
 👩🏻‍💻 I’m interested in `c/c++` `Java` `Spring` `Docker` `React` `AWS` 
 
-//![Kyoshong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoshong&show_icons=true&theme=tokyonight)
-
+<!-- ![Kyoshong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoshong&show_icons=true&theme=tokyonight)
+ -->
 <!--
 ## 👩🏻‍💻  
 ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
