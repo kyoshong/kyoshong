@@ -21,8 +21,8 @@
   
 ---
 
-👩🏻‍💻 I’m interested in `c/c++` `Java` `Spring` `Docker` `React` `AWS` 
-
+<!-- 👩🏻‍💻 I’m interested in `c/c++` `Java` `Spring` `Docker` `React`
+ -->
 ![Kyoshong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoshong&show_icons=true&theme=tokyonight)
 
 <!--
