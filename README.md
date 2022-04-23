@@ -19,10 +19,10 @@
 
 <!-- 👩🏻‍💻 I’m interested in `c/c++` `Java` `Spring` `Docker` `React`
  -->
- 
+ ![Kyoshong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoshong&show_icons=true&theme=tokyonight&count_private=true)
 [![hyospark's 42 stats](https://badge42.vercel.app/api/v2/cl2bjr11f005409mgzlhsj8zb/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 
-![Kyoshong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoshong&show_icons=true&theme=tokyonight&count_private=true)
+
 <!-- 
  👩🏻‍💻  
 ![](https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
